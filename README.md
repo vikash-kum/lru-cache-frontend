@@ -27,7 +27,7 @@ Follow these steps to set up the project on your local machine:
    npm install
    ```
 
-## Before Running the Project make sure the backend Golang project is running :
+## Before Running the Project make sure the backend Golang project is running
 
 1. **Start the development server:**
 
