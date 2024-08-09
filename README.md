@@ -12,13 +12,13 @@ Follow these steps to set up the project on your local machine:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/vikash-kum/lru-cache-frontend.git
    ```
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd your-repo
+   cd lru-cache-frontend
    ```
 
 3. **Install npm dependencies:**
@@ -27,7 +27,7 @@ Follow these steps to set up the project on your local machine:
    npm install
    ```
 
-## Running the Project
+## Before Running the Project make sure the backend Golang project is running :
 
 1. **Start the development server:**
 
@@ -36,11 +36,3 @@ Follow these steps to set up the project on your local machine:
    ```
 
    This will start the development server and open the project in your default web browser. The server usually runs on [http://localhost:3000](http://localhost:3000) by default.
-
-2. **Build the project for production:**
-
-   ```bash
-   npm run build
-   ```
-
-   This creates an optimized production build of your application in the `build` directory.
